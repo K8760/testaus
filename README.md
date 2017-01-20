@@ -1,6 +1,6 @@
 # Testaus
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg)
 
 ## Alaotsikko
 
