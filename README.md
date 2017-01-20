@@ -4,6 +4,7 @@
 
 | Hevonen | Rotu |
 |:--------|:-----|
+|Winner | Pony |
 
 
 ## Alaotsikko
